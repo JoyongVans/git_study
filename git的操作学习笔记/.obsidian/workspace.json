@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "0e0af270854dceb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "78b21e5937de9e60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dbcd345a1db9e9a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d3dfcc108599fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56f346f809c288ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b298493d6f13bf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "add436ada62cc74d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d537ad41fd7df22f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47ad6aa29d3e1ce7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cee8fc331d5ae263",
+    "type": "split",
+    "children": [
+      {
+        "id": "514c93d2cca93bca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfe4861dd462a70d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git学习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e01bd7d2926689fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b04d2538a18f274",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff8191410501a7eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git学习.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4d3dfcc108599fed",
+  "lastOpenFiles": [
+    "最终合并.png",
+    "出现冲突.png",
+    "合并分支1.png",
+    "分支 graph查看.png",
+    "分支修改 并查看.png",
+    "log查看.png",
+    "查看.png",
+    "微信截图_20230816191412.png",
+    "Pasted image 20230816182245.png.md",
+    "Git学习.md",
+    "未命名.md",
+    "Pasted image 20230816182452.png.md",
+    "Pasted image 20230816182132.png.md"
+  ]
+}
