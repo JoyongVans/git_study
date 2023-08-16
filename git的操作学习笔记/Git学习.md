@@ -5,19 +5,19 @@
 ## 两种初始化的方式
 
 - git clone 加别人的git链接
-    
+  
 - git init
-    
+  
 
 ## 提交操作步骤
 
 - 第一种情况
-    
+  
 
 1. git add . 把文件加入暂存区（为准备提交整个工作区的文件）
-    
+   
     2. git commit -m "此次提交的备注"
-        
+       
 
 - 第二种情况（单独提交一个文件）
 
@@ -70,6 +70,28 @@ git merge  feature1
 	把等号上方或者下方的删除，保留想要的。
 ![[最终合并.png]]
 
+
+
+## 储藏
+
+git stash 
+
+恢复存储： git stash apply
+
+## 重置reset（撤销提交）
+
+- （head~ 上一次的 head~2 倒数第二次）
+
+​			git reset head~ --soft  （有暂存状态，存在add ）
+
+​			git reset head~ （无暂存状态）但是上次修改的代码还是存在的
+
+​					只需要git add 名称 然后git commit 再次提交
+
+- git reset head~ --hard
+
+  不光把暂存取消了，而且把之前修改的内容也取消了
+
 ### 创建远程仓库
 
 git remote add 名字 链接 
@@ -77,3 +99,8 @@ git remote add 名字 链接
 ### 把本地代码推送到远程仓库里
 
 git push 远程仓库(此处为origin） 分支
+
+## 拉取进本地仓库
+
+git fetch
+
